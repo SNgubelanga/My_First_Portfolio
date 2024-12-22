@@ -1,1 +1,7 @@
-
+body {
+  background: rgb(150,187,255);
+  color: white;
+  text-decoration: none;
+  font-family: "Lato", sans-serif;
+  font-weight: 600;
+}
